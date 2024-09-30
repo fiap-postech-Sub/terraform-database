@@ -28,7 +28,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          repository: tshadz-fiap-postech-soat3/terraform-database
+          repository: fiap-postech-Sub/terraform-database
           path: terraform
           ref: main
 
